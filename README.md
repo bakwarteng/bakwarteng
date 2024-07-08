@@ -4,7 +4,9 @@
 🌱 I’ve learned advanced JavaScript, React, and back-end development with Node.js. I'm continuing my coding journey by refining my codebase, updating my React-portfolio, and participating in passion projects
 💞️ I’m looking to collaborate on open-source projects and any initiatives focused on enhancing accessibility in technology.  
 📫 How to reach me: [bakwarteng@hotmail.com ](mailto:bakwarteng@hotmail.com) or  [bakwarteng13@gmail.com ](mailto:bakwarteng13@gmail.com) 
+
 😄 Pronouns: She/Her  
+
 ⚡ Fun fact: I discovered my passion for coding while gaming during the 2020 pandemic!
 
 
